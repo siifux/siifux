@@ -12,7 +12,7 @@ A **WEB DEVELOPER** ***Enthusiast*** 🚀.
 
 - 🔭 I’m currently working @ PayEx
 - 🌱 I’m currently learning Angular / TypeScript
-- 📫 How to reach me: sindrefuru@hotmail.no
+- 📫 How to reach me: [By Mail](mailto:sindrefuru@hotmail.no?subject=[GitHub]%20Visitor)
 - 😄 Pronouns: He / Him
 
 ----
