@@ -10,7 +10,7 @@ A **WEB DEVELOPER** ***Enthusiast*** 🚀.
 
 ----
 
-- 🔭 I’m currently working @ PuzzlePart
+- 🔭 I’m currently working @ Crayon Consulting
 - 🌱 I’m currently learning SPFx / React 
 - 📫 How to reach me: By [Mail](mailto:sindrefuru@hotmail.no?subject=[GitHub]%20Visitor) or [LinkedIn](https://www.linkedin.com/in/sindrefurulund/)
 - 😄 Pronouns: He / Him
