@@ -15,6 +15,6 @@ A **WEB DEVELOPER** ***Enthusiast*** 🚀.
 - 📫 How to reach me: By [Mail](mailto:sindrefuru@hotmail.no?subject=[GitHub]%20Visitor) or [LinkedIn](https://www.linkedin.com/in/sindrefurulund/)
 - 😄 Pronouns: He / Him
 
-Skills/Interests: ASP.NET, HTML5, CSS, SCSS, JavaScript, TypeScript, SPFx, Power Platform, Git, Github, React
+Skills/Interests: HTML5, CSS, SCSS, JavaScript, TypeScript, SPFx, Power Platform, Git, Github, React
 
 ----
